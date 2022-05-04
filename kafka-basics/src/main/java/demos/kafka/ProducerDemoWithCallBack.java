@@ -47,6 +47,12 @@ public class ProducerDemoWithCallBack {
                     }
                 }
             });
+            //To observe the round-robin feature of Kafka, we can add a Thread.sleep(1000)
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
 
         // flush data - synchronous

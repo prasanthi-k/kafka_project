@@ -3,3 +3,5 @@ fileignoreconfig:
   checksum: 66f7361dd2f52f33cfba321be85b13384a700b22ee54f2b0c2c696a1d9ee8980
 - filename: kafka-basics/src/main/java/demos/kafka/ConsumerDemo.java
   checksum: f40ca7c2cb9ad3b764b9c51f43f0779a747c898c3c04fbd2969532c21182e117
+- filename: kafka-basics/src/main/java/demos/kafka/ConsumerDemoWithShutDown.java
+  checksum: c7a4e6ad8a07d428dd449d66b9835c4e78967a743090578515b265897aad2727

@@ -5,3 +5,13 @@ fileignoreconfig:
   checksum: f40ca7c2cb9ad3b764b9c51f43f0779a747c898c3c04fbd2969532c21182e117
 - filename: kafka-basics/src/main/java/demos/kafka/ConsumerDemoWithShutDown.java
   checksum: c7a4e6ad8a07d428dd449d66b9835c4e78967a743090578515b265897aad2727
+- filename: kafka-concepts/2-kafka-extended/config/connect-standalone.properties
+  checksum: 5c8e6d1ebc723be6102df8ab815b0debf6f4ac9b2c929a9ca33f13075926ded8
+- filename: kafka-concepts/3-kafka-topic-configurations/1-log-compaction.sh
+  checksum: da87844ea197915f6d3a2dab222886da3c35d82664013c04f9da2052d1bd73a3
+- filename: kafka-concepts/2-kafka-extended/config/elasticsearch.properties
+  checksum: adf86b7192b2a7948b29d79296937913c1c87be1c698aa1bc17fb5d61a8cb40d
+- filename: kafka-concepts/1-kafka-cli/2-kafka-console-consumer.sh
+  checksum: 38a306bf099102cbdbc732ac0d73aac50630479ab7e46ba7537ff20f85508fde
+- filename: kafka-concepts/1-kafka-cli/1-kafka-console-producer.sh
+  checksum: 7940a71b9adc1e988577d8f1cde10f1382748ad23c9ac090e7d62661ef8bfc3b
